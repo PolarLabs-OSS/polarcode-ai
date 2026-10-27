@@ -8,7 +8,7 @@ Legge file sorgente e applica sostituzioni con backup e conferma. Il modello pu�
 
 ## Installazione Windows
 
-Scarica l'archivio Windows x64, estrai l'intera cartella e avvia polarcode-ai-v0.2.exe. Non occorre installare Python. L'eseguibile è unsigned: le policy di sicurezza potrebbero bloccarlo. Windows ARM64 può usare l'emulazione x64.
+Scarica l'archivio Windows x64, estrai l'intera cartella e avvia polarcode-ai-v0.3.exe. Non occorre installare Python. L'eseguibile è unsigned: le policy di sicurezza potrebbero bloccarlo. Windows ARM64 può usare l'emulazione x64.
 
 ## Configurazione
 
